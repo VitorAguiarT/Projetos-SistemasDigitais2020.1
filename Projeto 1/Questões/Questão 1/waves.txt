@@ -1,0 +1,7 @@
+https://wavedrom.com/editor.html
+
+{signal: [
+  {name: 'A', wave: '0....1..........'},
+  {name: 'B', wave: '0......1.0.1.0.1'},
+  {name: 'C', wave: '0.1.....0.1.0.1.'},
+]}

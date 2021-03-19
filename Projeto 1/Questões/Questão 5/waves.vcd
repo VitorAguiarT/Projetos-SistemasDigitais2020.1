@@ -1,0 +1,211 @@
+$date
+	Fri Mar 19 17:38:31 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module stimulus $end
+$var wire 1 ! L $end
+$var wire 1 " G $end
+$var wire 1 # E $end
+$var reg 8 $ A [7:0] $end
+$var reg 8 % B [7:0] $end
+$scope module uut $end
+$var wire 8 & A [7:0] $end
+$var wire 8 ' B [7:0] $end
+$var wire 1 ( L_old $end
+$var wire 1 ! L $end
+$var wire 1 ) G_old $end
+$var wire 1 " G $end
+$var wire 1 * E_old $end
+$var wire 1 # E $end
+$scope module c1 $end
+$var wire 4 + A [3:0] $end
+$var wire 4 , B [3:0] $end
+$var wire 1 * E $end
+$var wire 1 - E_IN $end
+$var wire 1 ) G $end
+$var wire 1 . G_IN $end
+$var wire 1 ( L $end
+$var wire 1 / L_IN $end
+$upscope $end
+$scope module c2 $end
+$var wire 4 0 A [3:0] $end
+$var wire 4 1 B [3:0] $end
+$var wire 1 # E $end
+$var wire 1 * E_IN $end
+$var wire 1 " G $end
+$var wire 1 ) G_IN $end
+$var wire 1 ! L $end
+$var wire 1 ( L_IN $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1000 1
+b1000 0
+0/
+0.
+1-
+b0 ,
+b0 +
+1*
+0)
+0(
+b10000000 '
+b10000000 &
+b10000000 %
+b10000000 $
+1#
+0"
+0!
+$end
+#20
+1)
+0*
+1"
+0#
+b1111 +
+b1111 0
+b11111111 $
+b11111111 &
+#40
+0"
+1#
+0)
+1*
+b1111 ,
+b1111 1
+b11111111 %
+b11111111 '
+#60
+1(
+0*
+1!
+0#
+b0 +
+b1000 0
+b10000000 $
+b10000000 &
+#80
+0!
+1#
+0(
+1*
+b0 ,
+b1000 1
+b10000000 %
+b10000000 '
+#100
+1)
+0*
+1"
+0#
+b1111 +
+b1111 0
+b11111111 $
+b11111111 &
+#120
+0"
+1#
+0)
+1*
+b1111 ,
+b1111 1
+b11111111 %
+b11111111 '
+#140
+1(
+0*
+1!
+0#
+b0 +
+b1000 0
+b10000000 $
+b10000000 &
+#160
+0!
+1#
+0(
+1*
+b0 ,
+b1000 1
+b10000000 %
+b10000000 '
+#180
+1)
+0*
+1"
+0#
+b1111 +
+b1111 0
+b11111111 $
+b11111111 &
+#200
+0"
+1#
+0)
+1*
+b1111 ,
+b1111 1
+b11111111 %
+b11111111 '
+#220
+1(
+0*
+1!
+0#
+b0 +
+b1000 0
+b10000000 $
+b10000000 &
+#240
+0!
+1#
+0(
+1*
+b0 ,
+b1000 1
+b10000000 %
+b10000000 '
+#260
+1)
+0*
+1"
+0#
+b1111 +
+b1111 0
+b11111111 $
+b11111111 &
+#280
+0"
+1#
+0)
+1*
+b1111 ,
+b1111 1
+b11111111 %
+b11111111 '
+#300
+1(
+0*
+1!
+0#
+b0 +
+b1000 0
+b10000000 $
+b10000000 &
+#320
+0!
+1#
+0(
+1*
+b0 ,
+b1000 1
+b10000000 %
+b10000000 '
